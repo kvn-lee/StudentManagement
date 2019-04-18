@@ -2,7 +2,7 @@
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>
-#include <conio.h>
+#include <curses.h>
 #include <iomanip>
 
 using namespace std;
